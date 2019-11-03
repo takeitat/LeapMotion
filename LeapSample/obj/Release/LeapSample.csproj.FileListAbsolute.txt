@@ -1,0 +1,7 @@
+C:\Users\shinolab\source\repos\LeapSample\LeapSample\bin\Release\LeapSample.exe.config
+C:\Users\shinolab\source\repos\LeapSample\LeapSample\bin\Release\LeapSample.exe
+C:\Users\shinolab\source\repos\LeapSample\LeapSample\bin\Release\LeapSample.pdb
+C:\Users\shinolab\source\repos\LeapSample\LeapSample\obj\Release\LeapSample.csprojAssemblyReference.cache
+C:\Users\shinolab\source\repos\LeapSample\LeapSample\obj\Release\LeapSample.csproj.CoreCompileInputs.cache
+C:\Users\shinolab\source\repos\LeapSample\LeapSample\obj\Release\LeapSample.exe
+C:\Users\shinolab\source\repos\LeapSample\LeapSample\obj\Release\LeapSample.pdb
